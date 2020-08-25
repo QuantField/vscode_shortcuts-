@@ -7,3 +7,7 @@
 * Alt + UP/Down : move line up/down
 
 * Alt + Shift + Up/Down : duplicate line up/down
+
+* Ctrl + x or Shift + Del : delete line
+
+* Ctrl + L : select the whole line.
