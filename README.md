@@ -11,3 +11,5 @@
 * Ctrl + x or Shift + Del : delete line
 
 * Ctrl + L : select the whole line.
+
+* Alt + Shift + Right : select word
